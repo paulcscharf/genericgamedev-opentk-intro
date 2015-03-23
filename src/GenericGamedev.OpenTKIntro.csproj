@@ -49,7 +49,6 @@
     <Compile Include="GameWindow.cs" />
     <Compile Include="Matrix4Uniform.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Shader.cs" />
     <Compile Include="ShaderProgram.cs" />
     <Compile Include="VertexArray.cs" />
